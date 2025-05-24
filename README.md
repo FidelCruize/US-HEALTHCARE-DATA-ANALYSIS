@@ -21,7 +21,7 @@ The analysis addresses key stakeholder questions, with clear, actionable insight
 ## Deliverables
 - **Final Report (Simplified for Stakeholders)**:  
   [Download Healthcare Analysis Report](https://tinyurl.com/Healthcare-analysis-report)  
-- **Interactive Dashboard** ([Coming soon!](https://lnkd.in/deM68iwC)):  
+- **Interactive Dashboard**(https://lnkd.in/deM68iwC)):  
 - **Dataset**:  
   [Download Dataset](link-to-dataset)
 
