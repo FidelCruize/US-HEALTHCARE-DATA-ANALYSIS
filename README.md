@@ -53,4 +53,5 @@ The analysis addresses key stakeholder questions, with clear, actionable insight
 
 ---
 
-*For more information, feel free to contact me at [fidelumukoro90@gmail.com].*
+*For more information, feel free to contact me at [fidelumukoro90@gmail.com]
+https://www.linkedin.com/in/fidelumukoro.*
