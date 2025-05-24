@@ -23,7 +23,7 @@ The analysis addresses key stakeholder questions, with clear, actionable insight
   [Download Healthcare Analysis Report](https://tinyurl.com/Healthcare-analysis-report)  
 - **Interactive Dashboard**(https://lnkd.in/deM68iwC)):  
 - **Dataset**:  
-  [Download Dataset](link-to-dataset)
+  [Download Dataset]([link-to-dataset](https://tinyurl.com/Healthcaredataset))
 
 ## Key Insights
 - Older adults (60+) make up the majority of admissions.
