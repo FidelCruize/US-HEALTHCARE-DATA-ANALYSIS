@@ -1,5 +1,4 @@
-# US-HEALTHCARE-DATA-ANALYSIS
-# Healthcare Data Analysis Project
+# US-HEALTHCARE-DATA-ANALYSIS PROJECT
 
 This project presents a comprehensive analysis of patient data from 10 major hospitals across the U.S., focusing on uncovering actionable insights to drive better healthcare decisions, optimize treatment costs, and improve patient outcomes.
 
@@ -21,9 +20,8 @@ The analysis addresses key stakeholder questions, with clear, actionable insight
 
 ## Deliverables
 - **Final Report (Simplified for Stakeholders)**:  
-  [Download Healthcare Analysis Report](link-to-word-document)  
-- **Interactive Dashboard** (Coming soon!):  
-  [View Dashboard](link-to-dashboard)
+  [Download Healthcare Analysis Report](https://tinyurl.com/Healthcare-analysis-report)  
+- **Interactive Dashboard** ([Coming soon!](https://lnkd.in/deM68iwC)):  
 - **Dataset**:  
   [Download Dataset](link-to-dataset)
 
