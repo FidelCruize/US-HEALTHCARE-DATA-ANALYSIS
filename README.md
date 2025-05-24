@@ -21,11 +21,11 @@ The analysis addresses key stakeholder questions, with clear, actionable insight
 ## Deliverables
 - **Final Report (Simplified for Stakeholders)**:  
   [Download Healthcare Analysis Report](https://tinyurl.com/Healthcare-analysis-report)
-  
-[View Dashboard]([link-to-dashboard](https://lnkd.in/deM68iwC)
 
-- **Dataset**:  
-  [Download Dataset]([link-to-dataset](https://tinyurl.com/Healthcaredataset)
+- **Interactive Dashboard**
+  [View Dashboard](https://lnkd.in/deM68iwC)
+
+- **Dataset**:[Download Dataset](https://tinyurl.com/Healthcaredataset)
 
 ## Key Insights
 - Older adults (60+) make up the majority of admissions.
@@ -46,12 +46,12 @@ The analysis addresses key stakeholder questions, with clear, actionable insight
 7. Tailor strategies to regional health needs.
 
 ## Technologies Used
-- **Ms Excel**: Data analysis and report generation
-- **Ms Excel Pivot Analysis**: Data processing and exploration
+- **Microsoft Excel**: Data analysis and report generation
+- **Excel Pivot Tables**: Data processing and exploration
 - **Microsoft Word**: Final report generation
 - **Power BI** (for dashboard)
 
 ---
 
-*For more information, feel free to contact me at [fidelumukoro90@gmail.com]
-https://www.linkedin.com/in/fidelumukoro.*
+*For more information, feel free to contact me at [fidelumukoro90@gmail.com].*  
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/fidelumukoro).*
